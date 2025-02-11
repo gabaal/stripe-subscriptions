@@ -6,15 +6,15 @@
 
 Some Features:
 
--   ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
--   🔐 Authentication with Kinde Auth
--   💸 Monthly and Annually Subscriptions with Stripe
--   💵 Building a Stripe Billing Portal
--   🛠️ What are Webhooks
--   🔄 Stripe Event Types
--   🌗 Light/Dark Mode
--   🌐 Deployment
--   ✅ This is a lot of work. Support me by subscribing to the [Youtube Channel](https://www.youtube.com/@asaprogrammer_)
+- ⚛️ Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
+- 🔐 Authentication with Kinde Auth
+- 💸 Monthly and Annually Subscriptions with Stripe
+- 💵 Building a Stripe Billing Portal
+- 🛠️ What are Webhooks
+- 🔄 Stripe Event Types
+- 🌗 Light/Dark Mode
+- 🌐 Deployment
+- ✅ This is a lot of work. Support me by subscribing to the [Youtube Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
@@ -53,14 +53,18 @@ npm run dev
 
 ## `Timestamps` for your convenience 👇
 
--   00:00:00 - Demo
--   00:01:04 - App Setup
--   00:06:20 - MongoDB and Prisma Setup
--   00:16:40 - Auth Setup with Kinde
--   00:19:40 - Understanding Auth Callbacks
--   00:32:50 - Stripe Subscriptions Setup
--   00:49:00 - Webhooks and API Route
--   01:16:10 - Building a Customer Portal
--   01:22:40 - Detailed Deployment and thank you!
+- 00:00:00 - Demo
+- 00:01:04 - App Setup
+- 00:06:20 - MongoDB and Prisma Setup
+- 00:16:40 - Auth Setup with Kinde
+- 00:19:40 - Understanding Auth Callbacks
+- 00:32:50 - Stripe Subscriptions Setup
+- 00:49:00 - Webhooks and API Route
+- 01:16:10 - Building a Customer Portal
+- 01:22:40 - Detailed Deployment and thank you!
 
 ### I'll see you in the next one! 🚀
+
+SseNY2099h8OHMJs
+
+mongodb+srv://geraldbaalham:SseNY2099h8OHMJs@cluster0.tlqmi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
